@@ -3,7 +3,9 @@
 *
 * Copyright (c) 2017 Keith Bronstrup
 *
+* https://github.com/KeMBro2012/Special-Snowflakes
 *
+* Licensed under MIT License: https://github.com/KeMBro2012/Special-Snowflakes/blob/master/LICENSE
 * */
 
 function SpecialSnowflakesConfig () {
